@@ -1,0 +1,2 @@
+import image from '../assets/images/final.jpg';
+export default function FinalSection(){return <footer><div className="final-heart">♥</div><p className="kicker">for you, always</p><h2>If you ever wonder how special you are to me...</h2><p className="final-lead">You are more than words could ever explain.</p><img src={image} alt="Final portrait"/><p className="closing">This little world will always be yours. ♥</p></footer>}
